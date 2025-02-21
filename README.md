@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Soham 👋
 
-<!--
-**soham24/soham24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am a passionate software developer with experience in Android development and C++ development.
+- 🌱 I have hands-on experience with image processing and deep learning, and I specialize in deploying deep learning models on edge devices.
+- 🎨 I also work with OpenGL and rendering technologies.
+- 📫 How to reach me: [Email](mailto:mynameisskr@gmail.com)
+- ⚡ Fun fact: I love filmmaking and video editing.
+
+## GitHub Stats
+
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham24&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham24&layout=compact&theme=radical)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/soham24)
+- [Twitter](https://twitter.com/TheSoham24)
